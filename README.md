@@ -4,7 +4,7 @@ A simple todo list application built as an exercise for beginners to practice UI
 ## Initial UI
 
 <p align="center">
-  <img width="640" height="480" src="https://i.imgur.com/9mUJTl3.png">
+  <img src="https://i.imgur.com/9mUJTl3.png">
 </p>
 
 ## Adding Todos
